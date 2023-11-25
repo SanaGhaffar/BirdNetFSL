@@ -1,0 +1,11 @@
+keras==2.8.0
+librosa
+numpy
+pandas
+scikit_learn
+soundfile==0.12.1
+tensorflow==2.8.0
+torch
+audiomentations==0.32.0
+tqdm
+protobuf==3.20.0
