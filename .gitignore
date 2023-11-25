@@ -1,6 +1,5 @@
 archive/
 venv/
-variables/
 birdclef-2022/
 .idea/
 main.py
